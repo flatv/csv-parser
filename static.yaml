@@ -1,0 +1,7 @@
+application:
+  name: csv-parser
+  version: 0.0.1
+  author: Filatov Andrey
+  about: Parses CSV files
+  separator: ','
+  empty_value: NULL
